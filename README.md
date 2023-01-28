@@ -10,6 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 - EJS - Template engine for Node.js,
 - request - Simplified HTTP request client
 
+# Installing 
+Clone the repository to your local machine
+```bash
+git clone https://github.com/ZAHIRULCODER/weather-app.git
+
+```
+
 # Install the dependencies
 ```bash
 npm i express path ejs request body-parser nodemon
