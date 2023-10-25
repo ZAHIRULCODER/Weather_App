@@ -1,5 +1,5 @@
 # Weather_App
-This is a simple weather application built using Node.js and Express.js. It allows users to view the current weather for a given city.
+This is a simple weather application built using Node.js and Express.js For fun. It allows users to view the current weather for a given city.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Node.js - JavaScript runtime
 - Express.js - Web framework for Node.js,
 - EJS - Template engine for Node.js,
-- request - Simplified HTTP request client
+- axios - To fetch the data
 
 ### Installing 
 Clone the repository to your local machine
@@ -17,14 +17,14 @@ git clone https://github.com/ZAHIRULCODER/weather-app.git
 
 ```
 
-### Install the dependencies
+### Install all the dependencies
 ```bash
-npm i express path ejs request body-parser nodemon
+npm install
 ```
 
-### Start the server
+### Start the server in development mode
 ```bash
-npm start
+npm run dev
 ```
 http://localhost:3000 in your browser to view the application
 
