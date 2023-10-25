@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Node.js - JavaScript runtime
 - Express.js - Web framework for Node.js,
 - EJS - Template engine for Node.js,
-- axios - To fetch the data
+- Axios - To fetch the data
 
 ### Installing 
 Clone the repository to your local machine
