@@ -1,4 +1,4 @@
-# Weather_App
+# Node.js Weather_App
 This is a simple weather application built using Node.js and Express.js For fun. It allows users to view the current weather for a given city.
 
 ## Getting Started
